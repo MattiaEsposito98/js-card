@@ -24,3 +24,8 @@ img {
   max-width: 1024px;
   margin: 0 auto;
 }
+
+.container-sm {
+  max-width: 800px;
+  margin: 0 auto;
+}

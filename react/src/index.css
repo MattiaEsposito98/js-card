@@ -71,3 +71,7 @@ button:focus-visible {
   max-width: 1024px;
   margin: 0 auto;
 }
+
+.color {
+  color: red;
+}

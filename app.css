@@ -1,0 +1,26 @@
+/* Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+a {
+  color: currentColor;
+  text-decoration: none;
+  gap: 20px;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+}
